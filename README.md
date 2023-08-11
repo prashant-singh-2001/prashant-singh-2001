@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Car Store E-commerce<br><br>🌱 I’m currently learning MERN Stack, Spring Stack<br><br>🤝 I’m looking for help with Car Store E-commerce using MERN Stack & Rust<br><br>💬 Ask me about Base Java, C/CPP, SQL/PLSQL<br><br>📫 How to reach me ps47600@gmail.com<br><br>⚡ Fun fact I am not funny
 
-
+[![](https://visitcount.itsvg.in/api?id=prashant-singh-2001&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._.mephisto._.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-singh-531b57198) 
 
@@ -19,8 +19,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=prashant-singh-2001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
