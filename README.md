@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">Embarking on a Journey of Growth: Nurturing Skills and Aspiring Towards Excellence as a Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e4740fplf4cilxo2m8re9q87kvygeiof8pb73fd28cz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
