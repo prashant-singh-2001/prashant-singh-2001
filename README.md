@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e4740fplf4cilxo2m8re9q87kvygeiof8pb73fd28cz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
-🔭 I’m currently working on Car Store E-commerce<br><br>🌱 I’m currently learning MERN Stack, Spring Stack<br><br>🤝 I’m looking for help with  MERN Stack , Rust & Spring MVC<br><br>💬 Ask me about Base Java, C/CPP, SQL/PLSQL<br><br>📫 How to reach me ps47600@gmail.com<br><br>⚡ Fun fact I am not funny
+🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning MER(NEXT)N Stack<br><br>🤝 I’m looking for help with  MERN Stack & Deep Learning <br><br>💬 Ask me about Java, C/CPP, Python, Data Analytics,SQL/PLSQL<br><br>📫 Reach me at ps47600@gmail.com<br><br>⚡ Fun fact I am not funny
 
 [![](https://visitcount.itsvg.in/api?id=prashant-singh-2001&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
