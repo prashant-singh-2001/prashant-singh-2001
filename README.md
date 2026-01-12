@@ -17,7 +17,7 @@ Java Backend Engineer | Microservices | Data & ML Enthusiast
 🧠 **Background:** MCA in **Data Science & Machine Learning** (GPA 9.09)  
 📚 **Interests:** Distributed systems, scalable APIs, ML-backed products  
 💬 **Ask me about:** Java, Spring Boot, Microservices, SQL, REST APIs, NLP  
-📫 **Reach me:** ps47600@gmail.com  
+📫 **Reach me:** dev.prashant.singh.01@gmail.com
 ⚡ **Fun fact:** I debug faster after coffee ☕  
 
 [![](https://visitcount.itsvg.in/api?id=prashant-singh-2001&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
