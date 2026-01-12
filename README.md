@@ -66,11 +66,12 @@ Java Backend Engineer | Microservices | Data & ML Enthusiast
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+![](https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
