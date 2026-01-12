@@ -69,10 +69,7 @@ Java Backend Engineer | Microservices | Data & ML Enthusiast
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&layout=compact&theme=midnight-purple)
-
+![](https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### ✍️ Random Dev Quote
