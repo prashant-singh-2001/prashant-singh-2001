@@ -1,26 +1,30 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
-<h3 align="center">
-Java Backend Engineer | Microservices | Data & ML Enthusiast
-</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+Microservices+Developer;Data+%26+ML+Enthusiast;I+turn+Coffee+into+Clean+Code;Debugging+is+my+Cardio" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashant-singh-2001&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
+</p>
+
+<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif"/>
 
 ---
 
 ## 💫 About Me
 
-🔭 **Currently:** Developer at **Tata Consultancy Services (TCS)**, working on Java & Spring Boot microservices  
-⚙️ **Experience:** Solving real production problems — **70+ issues fixed**, including **20 critical defects**  
-🚀 **Focus Areas:** Backend systems, microservices, performance, security, clean code  
-🧠 **Background:** MCA in **Data Science & Machine Learning** (GPA 9.09)  
-📚 **Interests:** Distributed systems, scalable APIs, ML-backed products  
-💬 **Ask me about:** Java, Spring Boot, Microservices, SQL, REST APIs, NLP  
+🔭 **Currently:** Developer at **Tata Consultancy Services (TCS)** — Java & Spring Boot microservices
+⚙️ **Impact:** **70+ issues fixed**, including **20 critical production defects** 🐛→✅
+🚀 **Focus:** Backend systems, microservices, performance, security, clean code
+🧠 **Background:** MCA in **Data Science & Machine Learning** — GPA **9.09**
+🌱 **Currently learning:** Event-driven architecture (Kafka), Kubernetes & system design
+💬 **Ask me about:** Java, Spring Boot, Microservices, SQL, REST APIs, NLP
 📫 **Reach me:** dev.prashant.singh.01@gmail.com
-⚡ **Fun fact:** I debug faster after coffee ☕  
-
-[![](https://visitcount.itsvg.in/api?id=prashant-singh-2001&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
@@ -29,6 +33,30 @@ Java Backend Engineer | Microservices | Data & ML Enthusiast
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/prashant-singh-2001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/prashantsingh0110)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-prashant-singh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.prashant.singh.01@gmail.com)
+
+---
+
+## 🎯 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/prashant-singh-2001/gamified_tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=gamified_tracker&theme=midnight-purple&hide_border=false" />
+  </a>
+  <a href="https://github.com/prashant-singh-2001/vaultro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=vaultro&theme=midnight-purple&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/prashant-singh-2001/b2b_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=b2b_system&theme=midnight-purple&hide_border=false" />
+  </a>
+  <a href="https://github.com/prashant-singh-2001/CrimeStatusPrediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=CrimeStatusPrediction&theme=midnight-purple&hide_border=false" />
+  </a>
+</p>
+
+> 🧩 **Microservices** → 🔐 **Security** → 🏢 **Business systems** → 🤖 **Machine Learning**. I like problems from a lot of angles.
 
 ---
 
@@ -66,12 +94,48 @@ Java Backend Engineer | Microservices | Data & ML Enthusiast
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
+---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashant-singh-2001&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-singh-2001&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prashant-singh-2001/prashant-singh-2001/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ☕ Off the Clock
+
+- 🎧 Best code ships with lo-fi beats and a full mug of coffee
+- 🧩 I treat LeetCode like a puzzle game — [come solve one with me](https://leetcode.com/prashantsingh0110)
+- 🐛 I don't *fix* bugs, I negotiate with them (I usually win... eventually)
+- 📚 Perpetually reading one system-design article too many
+- 🚀 Dream: build something a million people use without noticing the backend
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center"><i>⭐️ Thanks for stopping by — let's build something cool together!</i></p>
