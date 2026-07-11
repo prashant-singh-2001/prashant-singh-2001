@@ -41,12 +41,7 @@
 
 ## 🎯 Featured Projects
 
-<!--
-  These used to be github-readme-stats "pin" cards. That public service is currently
-  unreliable (it lost its Vercel sponsor), which is why the cards showed as broken.
-  Replaced with a static table so this section never breaks. If you self-host
-  github-readme-stats (see the notes I gave you), you can swap the pins back in.
--->
+
 
 | | |
 |---|---|
@@ -95,26 +90,11 @@
 
 ## 📊 GitHub Stats
 
-<!--
-  ⚠️ The two cards below (overall stats + top languages) come from
-  github-readme-stats.vercel.app, whose public instance is currently unreliable.
-  Added &cache_seconds=86400 as a stopgap. For a permanent fix, self-host the
-  service and replace "github-readme-stats.vercel.app" with your own Vercel domain.
--->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false" />
-</p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashant-singh-2001&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-singh-2001&theme=react-dark&hide_border=true&area=true" />
 </p>
