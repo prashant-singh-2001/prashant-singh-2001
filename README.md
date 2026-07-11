@@ -29,6 +29,8 @@
 ---
 
 ## 🌐 Connect With Me
+
+<!-- Verify this LinkedIn link resolves — your GitHub sidebar lists /in/prashant-singh-531b57198 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-singh-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/prashant-singh-2001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/prashantsingh0110)
@@ -39,22 +41,17 @@
 
 ## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/prashant-singh-2001/gamified_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=gamified_tracker&theme=midnight-purple&hide_border=false" />
-  </a>
-  <a href="https://github.com/prashant-singh-2001/vaultro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=vaultro&theme=midnight-purple&hide_border=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/prashant-singh-2001/b2b_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=b2b_system&theme=midnight-purple&hide_border=false" />
-  </a>
-  <a href="https://github.com/prashant-singh-2001/CrimeStatusPrediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashant-singh-2001&repo=CrimeStatusPrediction&theme=midnight-purple&hide_border=false" />
-  </a>
-</p>
+<!--
+  These used to be github-readme-stats "pin" cards. That public service is currently
+  unreliable (it lost its Vercel sponsor), which is why the cards showed as broken.
+  Replaced with a static table so this section never breaks. If you self-host
+  github-readme-stats (see the notes I gave you), you can swap the pins back in.
+-->
+
+| | |
+|---|---|
+| **[🎮 gamified_tracker](https://github.com/prashant-singh-2001/gamified_tracker)**<br>Microservices activity tracker with gamification (XP & levels).<br>**Stack:** Java · Spring Boot 3 · Spring Cloud (Eureka + OpenFeign) · JWT · PostgreSQL · Docker Compose | **[🔐 vaultro 🚧](https://github.com/prashant-singh-2001/vaultro)**<br>Secure self-hosted file vault for documents, images, audio & video — JWT auth, upload/download APIs, metadata & preview generation.<br>**Stack:** Java · Spring Boot *(WIP — code not pushed yet)* |
+| **[🏢 b2b_system](https://github.com/prashant-singh-2001/b2b_system)**<br>B2B platform on a microservices architecture — API gateway, auth, user & service modules.<br>**Stack:** Java · Spring Boot · Docker | **[🤖 CrimeStatusPrediction](https://github.com/prashant-singh-2001/CrimeStatusPrediction)**<br>Machine-learning model that predicts crime status/category from data.<br>**Stack:** Python · scikit-learn · pandas |
 
 > 🧩 **Microservices** → 🔐 **Security** → 🏢 **Business systems** → 🤖 **Machine Learning**. I like problems from a lot of angles.
 
@@ -98,13 +95,20 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚠️ The two cards below (overall stats + top languages) come from
+  github-readme-stats.vercel.app, whose public instance is currently unreliable.
+  Added &cache_seconds=86400 as a stopgap. For a permanent fix, self-host the
+  service and replace "github-readme-stats.vercel.app" with your own Vercel domain.
+-->
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=prashant-singh-2001&theme=midnight-purple&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-2001&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -118,6 +122,12 @@
 ---
 
 ## 🐍 Watch My Contributions Get Eaten
+
+<!--
+  This image only appears AFTER the snake workflow runs at least once and creates
+  the "output" branch. Add .github/workflows/snake.yml (provided), then run it once
+  from the Actions tab. Until then, this image will show as broken.
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashant-singh-2001/prashant-singh-2001/output/github-contribution-grid-snake-dark.svg" />
